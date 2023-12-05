@@ -64,14 +64,3 @@ Stay informed about the latest security threats and learn how to reassess securi
 
 Explore additional considerations such as setting up a VPN, regular data backups, and network segmentation in the [Additional Considerations](./docs/AdditionalConsiderations.md) document.
 
-## Contributing
-
-Please refer to the [Contributing](./CONTRIBUTING.md) guide if you wish to contribute to the project.
-
-## License
-
-This project is open-source. Review the [License](./LICENSE) for details.
-
-## Conclusion
-
-Thank you for exploring the Home Network Security Project. We encourage you to actively maintain and improve the security of your home network.
